@@ -1,4 +1,4 @@
-# P11-Les-petits-Plats
+# P7-Les-Petits-Plats
 
 Code repo for project 9 of the Front-end Developer path: a search engine for recipes.
 
